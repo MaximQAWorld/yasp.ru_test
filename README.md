@@ -1,2 +1,4 @@
 # yasp.ru_test
-Тестовое задание на позицию QA
+Тестовое задание — Restful Booker API
+
+
